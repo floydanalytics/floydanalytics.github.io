@@ -2,16 +2,37 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About Kevin",
     "section": "",
-    "text": "This is a page about me.\n\n1 + 1\n\n[1] 2"
+    "text": "Kevin Floyd is an aspiring sports data scientist, specializing in men’s and women’s college basketball and women’s college volleyball."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Kevin",
+    "section": "Education",
+    "text": "Education\nSimon Fraser University | Burnaby, BC\nMSc. in Statistics | Sept 2017 - Aug 2019\nUtah State University | Logan, UT\nB.S. in Statistics (Mathematics Minor) | Sept 2012 - May 2016"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Kevin",
+    "section": "Experience",
+    "text": "Experience\niFIT, Inc. | Data Analyst | May 2021 - Nov 2023\nBear River Health Dept. | COVID-19 Data Specialist | June 2020 - May 2021\nUniv. of Utah | Sports Analytics Intern | June 2017 - Aug 2017"
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About Kevin",
+    "section": "Resume",
+    "text": "Resume\nClick here for a one-page, PDF resume"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Floyd Analytics Site Test",
+    "title": "Welcome to Floyd Analytics",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "text text text\n\n  \n \n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Twitter\n  \n  \n    \n     Github\n  \n\n\n\n\n\nKevin Floyd is an aspiring sports data scientist, specializing in men’s and women’s college basketball and women’s college volleyball. His primary focus is connection; connecting disparate data sources with in-depth domain knowledge to gain new insights, connecting stakeholders with the data they need to make informed decisions, and connecting people within an organization in pursuit of excellence. Outside of sports and data, he enjoys water recreation and traveling, often while following his beloved Utah State Aggies.\n\n\n\nSimon Fraser University | Burnaby, BC\nMSc. in Statistics | Sept 2017 - Aug 2019\nUtah State University | Logan, UT\nB.S. in Statistics (Mathematics Minor) | Sept 2012 - May 2016\n\n\n\niFIT, Inc. | Data Analyst | May 2021 - Nov 2023\nBear River Health Dept. | COVID-19 Data Specialist | June 2020 - May 2021\nUniv. of Utah | Sports Analytics Intern | June 2017 - Aug 2017\nVisit the About section for more detail on specific skills and experience."
   },
   {
     "objectID": "tutoring.html",
