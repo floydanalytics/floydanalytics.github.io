@@ -2,14 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://floydanalytics.github.io/about.html</loc>
-    <lastmod>2024-02-14T00:56:24.075Z</lastmod>
+    <lastmod>2024-02-19T07:43:57.377Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/index.html</loc>
-    <lastmod>2024-02-14T00:56:24.844Z</lastmod>
+    <lastmod>2024-02-19T07:43:58.212Z</lastmod>
+  </url>
+  <url>
+    <loc>https://floydanalytics.github.io/mbb/team_ratings.html</loc>
+    <lastmod>2024-02-19T07:44:07.066Z</lastmod>
+  </url>
+  <url>
+    <loc>https://floydanalytics.github.io/mbb.html</loc>
+    <lastmod>2024-02-19T07:44:14.062Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/tutoring.html</loc>
-    <lastmod>2024-02-14T00:56:25.555Z</lastmod>
+    <lastmod>2024-02-19T07:44:14.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://floydanalytics.github.io/wbb.html</loc>
+    <lastmod>2024-02-19T07:44:15.658Z</lastmod>
+  </url>
+  <url>
+    <loc>https://floydanalytics.github.io/wvb.html</loc>
+    <lastmod>2024-02-19T07:44:16.575Z</lastmod>
   </url>
 </urlset>
