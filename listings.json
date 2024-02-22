@@ -1,9 +1,28 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/posts/240221-week-at-the-peak-wbb/index.html",
+      "/posts/240220-week-at-the-peak-mbb/index.html"
+    ]
+  },
+  {
+    "listing": "/mbb.html",
+    "items": [
+      "/posts/240220-week-at-the-peak-mbb/index.html"
+    ]
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/240221-week-at-the-peak-wbb/index.html",
       "/posts/240220-week-at-the-peak-mbb/index.html"
+    ]
+  },
+  {
+    "listing": "/wbb.html",
+    "items": [
+      "/posts/240221-week-at-the-peak-wbb/index.html"
     ]
   }
 ]

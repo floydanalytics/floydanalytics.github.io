@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./favicon32x32.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,12 +60,43 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-full-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-full-listings'] = new List('listing-full-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 <meta name="twitter:title" content="Floyd Analytics - Welcome to Floyd Analytics">
-<meta name="twitter:description" content="Kevin Floyd is an aspiring sports data scientist, specializing in men’s and women’s college basketball and women’s college volleyball.">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Visit the Posts section for more.">
+<meta name="twitter:image" content="https://floydanalytics.github.io/posts\240221-week-at-the-peak-wbb\preview.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -101,10 +134,21 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./wbb.html">
- <span class="menu-text">WBB</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-wbb" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">WBB</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-wbb">    
+        <li>
+    <a class="dropdown-item" href="./wbb.html">
+ <span class="dropdown-text">Home</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./wbb/team_ratings.html">
+ <span class="dropdown-text">Team Ratings</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./wvb.html">
  <span class="menu-text">WVB</span></a>
@@ -165,6 +209,72 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+<section id="latest-posts" class="level2">
+<h2 data-anchor-id="latest-posts">Latest Posts</h2>
+<div id="listing-full-listings" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="WBB,Mountain West" data-listing-date-sort="1708498800000" data-listing-file-modified-sort="1708558779907" data-listing-reading-time-sort="2.45">
+<div class="thumbnail">
+<p><a href="./posts/240221-week-at-the-peak-wbb/index.html"> <img src="./posts/240221-week-at-the-peak-wbb/preview.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/240221-week-at-the-peak-wbb/index.html">
+<h3 class="no-anchor listing-title">
+WBB Week at the Peak 2-21-24
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>Nevada is surging, Wyoming has an important week ahead, and more!</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/240221-week-at-the-peak-wbb/index.html">
+<div class="listing-date">
+Feb 21, 2024
+</div>
+<div class="listing-author">
+Kevin Floyd
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="MBB,Mountain West" data-listing-date-sort="1708412400000" data-listing-file-modified-sort="1708558279345" data-listing-reading-time-sort="2.26">
+<div class="thumbnail">
+<p><a href="./posts/240220-week-at-the-peak-mbb/index.html"> <img src="./posts/240220-week-at-the-peak-mbb/preview.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/240220-week-at-the-peak-mbb/index.html">
+<h3 class="no-anchor listing-title">
+MBB Week at the Peak 2-20-24
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+<p>Aztecs are feeling the love after Valentine’s Day week, plus more from the MW!</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/240220-week-at-the-peak-mbb/index.html">
+<div class="listing-date">
+Feb 20, 2024
+</div>
+<div class="listing-author">
+Kevin Floyd
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<p>Visit the <a href="posts">Posts</a> section for more.</p>
 <div class="quarto-about-jolla column-page">
   <img src="about-me.jpg" class="about-image
   rounded " style="width: 15em;">
@@ -191,6 +301,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 
+</section>
 <section id="bio" class="level2">
 <h2 data-anchor-id="bio">Bio</h2>
 <p><strong>Kevin Floyd</strong> is an aspiring sports data scientist, specializing in men’s and women’s college basketball and women’s college volleyball. His primary focus is connection; connecting disparate data sources with in-depth domain knowledge to gain new insights, connecting stakeholders with the data they need to make informed decisions, and connecting people within an organization in pursuit of excellence. Outside of sports and data, he enjoys water recreation and traveling, often while following his beloved Utah State Aggies.</p>
@@ -209,6 +320,7 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Bear River Health Dept.</strong> | COVID-19 Data Specialist | June 2020 - May 2021</p>
 <p><strong>University of Utah</strong> | Sports Analytics Intern | June 2017 - Aug 2017</p>
 <p>Visit the <a href="about">About</a> section for more detail on specific skills and experience.</p>
+
 
 
 
