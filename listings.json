@@ -2,7 +2,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/200303-week-at-the-peak-wbb/index.html",
       "/posts/240228-week-at-the-peak-wbb/index.html",
       "/posts/240227-week-at-the-peak-mbb/index.html",
       "/posts/240221-week-at-the-peak-wbb/index.html",
@@ -19,7 +18,6 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/200303-week-at-the-peak-wbb/index.html",
       "/posts/240228-week-at-the-peak-wbb/index.html",
       "/posts/240227-week-at-the-peak-mbb/index.html",
       "/posts/240221-week-at-the-peak-wbb/index.html",
@@ -29,7 +27,6 @@
   {
     "listing": "/wbb.html",
     "items": [
-      "/posts/200303-week-at-the-peak-wbb/index.html",
       "/posts/240228-week-at-the-peak-wbb/index.html",
       "/posts/240221-week-at-the-peak-wbb/index.html"
     ]
