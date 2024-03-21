@@ -2,90 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://floydanalytics.github.io/about.html</loc>
-    <lastmod>2024-03-18T23:47:34.541Z</lastmod>
+    <lastmod>2024-03-21T00:07:33.508Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/index.html</loc>
-    <lastmod>2024-03-18T23:47:35.651Z</lastmod>
+    <lastmod>2024-03-21T00:07:34.641Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/mbb/conf_tourney_proj.html</loc>
-    <lastmod>2024-03-18T23:48:08.488Z</lastmod>
+    <lastmod>2024-03-21T00:08:08.110Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/mbb/conf_win_probs.html</loc>
-    <lastmod>2024-03-18T23:48:20.871Z</lastmod>
+    <lastmod>2024-03-21T00:08:20.334Z</lastmod>
+  </url>
+  <url>
+    <loc>https://floydanalytics.github.io/mbb/ncaa_tourney_proj.html</loc>
+    <lastmod>2024-03-21T00:08:29.990Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/mbb/team_ratings.html</loc>
-    <lastmod>2024-03-18T23:48:32.031Z</lastmod>
+    <lastmod>2024-03-21T00:08:40.403Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/mbb.html</loc>
-    <lastmod>2024-03-18T23:48:42.877Z</lastmod>
+    <lastmod>2024-03-21T00:08:50.221Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/posts/240220-week-at-the-peak-mbb/index.html</loc>
-    <lastmod>2024-03-18T23:48:43.723Z</lastmod>
+    <lastmod>2024-03-21T00:08:51.091Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/posts/240221-week-at-the-peak-wbb/index.html</loc>
-    <lastmod>2024-03-18T23:48:44.532Z</lastmod>
+    <lastmod>2024-03-21T00:08:51.869Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/posts/240227-week-at-the-peak-mbb/index.html</loc>
-    <lastmod>2024-03-18T23:48:45.371Z</lastmod>
+    <lastmod>2024-03-21T00:08:52.637Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/posts/240228-week-at-the-peak-wbb/index.html</loc>
-    <lastmod>2024-03-18T23:48:46.189Z</lastmod>
+    <lastmod>2024-03-21T00:08:53.443Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/posts/240303-week-at-the-peak-wbb/index.html</loc>
-    <lastmod>2024-03-18T23:48:47.260Z</lastmod>
+    <lastmod>2024-03-21T00:08:54.506Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/posts/240305-week-at-the-peak-mbb/index.html</loc>
-    <lastmod>2024-03-18T23:48:48.102Z</lastmod>
+    <lastmod>2024-03-21T00:08:55.355Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/posts/240308-mbb-mw-season-finale/index.html</loc>
-    <lastmod>2024-03-18T23:48:49.060Z</lastmod>
+    <lastmod>2024-03-21T00:08:56.377Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/posts/240309-wbb-tournament-preview/index.html</loc>
-    <lastmod>2024-03-18T23:48:49.980Z</lastmod>
+    <lastmod>2024-03-21T00:08:57.363Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/posts/240313-mbb-tournament-preview/index.html</loc>
-    <lastmod>2024-03-18T23:48:50.932Z</lastmod>
+    <lastmod>2024-03-21T00:08:58.343Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/posts.html</loc>
-    <lastmod>2024-03-18T23:48:51.962Z</lastmod>
+    <lastmod>2024-03-21T00:08:59.394Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/tutoring.html</loc>
-    <lastmod>2024-03-18T23:48:52.690Z</lastmod>
+    <lastmod>2024-03-21T00:09:00.125Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/wbb/conf_tourney_proj.html</loc>
-    <lastmod>2024-03-18T23:49:28.782Z</lastmod>
+    <lastmod>2024-03-21T00:09:35.086Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/wbb/conf_win_probs.html</loc>
-    <lastmod>2024-03-18T23:49:40.710Z</lastmod>
+    <lastmod>2024-03-21T00:09:47.543Z</lastmod>
+  </url>
+  <url>
+    <loc>https://floydanalytics.github.io/wbb/ncaa_tourney_proj.html</loc>
+    <lastmod>2024-03-21T00:09:57.646Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/wbb/team_ratings.html</loc>
-    <lastmod>2024-03-18T23:49:50.921Z</lastmod>
+    <lastmod>2024-03-21T00:10:08.320Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/wbb.html</loc>
-    <lastmod>2024-03-18T23:50:01.089Z</lastmod>
+    <lastmod>2024-03-21T00:10:18.478Z</lastmod>
   </url>
   <url>
     <loc>https://floydanalytics.github.io/wvb.html</loc>
-    <lastmod>2024-03-18T23:50:01.833Z</lastmod>
+    <lastmod>2024-03-21T00:10:19.276Z</lastmod>
   </url>
 </urlset>
