@@ -21,6 +21,13 @@
     "text": "Experience\nUtah State University | WBB Color Commentator | Nov 2023 - Present\niFIT, Inc. | Data Analyst | May 2021 - Nov 2023\nBear River Health Dept. | COVID-19 Data Specialist | June 2020 - May 2021\nUniversity of Utah | Sports Analytics Intern | June 2017 - Aug 2017"
   },
   {
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
+    "title": "About Kevin",
+    "section": "Certifications",
+    "text": "Certifications\nGraduate Statistician (GStat) | American Statistical Association (ASA)"
+  },
+  {
     "objectID": "about.html#résumé",
     "href": "about.html#résumé",
     "title": "About Kevin",
@@ -53,63 +60,70 @@
     "href": "index.html#experience",
     "title": "Welcome to Floyd Analytics",
     "section": "Experience",
-    "text": "Experience\nUtah State University | WBB Color Commentator | Nov 2023 - Present\niFIT, Inc. | Data Analyst | May 2021 - Nov 2023\nBear River Health Dept. | COVID-19 Data Specialist | June 2020 - May 2021\nUniversity of Utah | Sports Analytics Intern | June 2017 - Aug 2017\nVisit the About section for more detail on specific skills and experience."
+    "text": "Experience\nUtah State University | WBB Color Commentator | Nov 2023 - Present\niFIT, Inc. | Data Analyst | May 2021 - Nov 2023\nBear River Health Dept. | COVID-19 Data Specialist | June 2020 - May 2021\nUniversity of Utah | Sports Analytics Intern | June 2017 - Aug 2017"
+  },
+  {
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "Welcome to Floyd Analytics",
+    "section": "Certifications",
+    "text": "Certifications\nGraduate Statistician (GStat) | American Statistical Association (ASA)\nVisit the About section for more detail on specific skills and experience."
   },
   {
     "objectID": "mbb/conf_tourney_proj.html",
     "href": "mbb/conf_tourney_proj.html",
     "title": "NCAA MBB Conference Tournament Projections",
     "section": "",
-    "text": "Forecast Date:\n\n\n\n\nSelect\n2024-03-18\n2024-03-17\n2024-03-16\n2024-03-15\n2024-03-14\n2024-03-13\n2024-03-12\n2024-03-11\n2024-03-10\n2024-03-09\n2024-03-08\n2024-03-07\n2024-03-06\n2024-03-05\n2024-03-04\n\n\n\n\n\n\n\n\nData through games of Thu, Mar 21."
+    "text": "Forecast Date:\n\n\n\n\nSelect\n2024-03-18\n2024-03-17\n2024-03-16\n2024-03-15\n2024-03-14\n2024-03-13\n2024-03-12\n2024-03-11\n2024-03-10\n2024-03-09\n2024-03-08\n2024-03-07\n2024-03-06\n2024-03-05\n2024-03-04\n\n\n\n\n\n\n\n\nData through games of Fri, Mar 22."
   },
   {
     "objectID": "mbb/conf_win_probs.html",
     "href": "mbb/conf_win_probs.html",
     "title": "NCAA MBB Conference Win Totals",
     "section": "",
-    "text": "Data through games of Thu, Mar 21."
+    "text": "Data through games of Fri, Mar 22."
   },
   {
     "objectID": "mbb/ncaa_tourney_proj.html",
     "href": "mbb/ncaa_tourney_proj.html",
     "title": "Men’s NCAA Tournament Projections",
     "section": "",
-    "text": "Forecast Date:\n\n\n\n\nSelect\n2024-03-22\n2024-03-21\n2024-03-20\n2024-03-19\n\n\n\n\n\n\n\n\nData through games of Thu, Mar 21."
+    "text": "Forecast Date:\n\n\n\n\nSelect\n2024-03-23\n2024-03-22\n2024-03-21\n2024-03-20\n2024-03-19\n\n\n\n\n\n\n\n\nData through games of Fri, Mar 22."
   },
   {
     "objectID": "mbb/team_ratings.html",
     "href": "mbb/team_ratings.html",
     "title": "NCAA MBB Team Ratings",
     "section": "",
-    "text": "Data through games of Thu, Mar 21.\nHome court advantage is +/- 2.27, residual SE is 12.28."
+    "text": "Data through games of Fri, Mar 22.\nHome court advantage is +/- 2.27, residual SE is 12.29."
   },
   {
     "objectID": "mbb.html",
     "href": "mbb.html",
     "title": "NCAA Men’s Basketball",
     "section": "",
-    "text": "Data through games of Thu, Mar 21\nClick here for the projected results of every round of the NCAA tournament."
+    "text": "Data through games of Fri, Mar 22\nClick here for the projected results of every round of the NCAA tournament."
   },
   {
     "objectID": "mbb.html#mens-basketball-team-ratings",
     "href": "mbb.html#mens-basketball-team-ratings",
     "title": "NCAA Men’s Basketball",
     "section": "Men’s Basketball Team Ratings",
-    "text": "Men’s Basketball Team Ratings\n\n\n\n\n\n\n\nData through games of Thu, Mar 21\nClick here for full team efficiency and NET ratings."
+    "text": "Men’s Basketball Team Ratings\n\n\n\n\n\n\n\nData through games of Fri, Mar 22\nClick here for full team efficiency and NET ratings."
   },
   {
     "objectID": "mbb.html#mens-basketball-conference-tournament-projections",
     "href": "mbb.html#mens-basketball-conference-tournament-projections",
     "title": "NCAA Men’s Basketball",
     "section": "Men’s Basketball Conference Tournament Projections",
-    "text": "Men’s Basketball Conference Tournament Projections\n\nForecast Date:\n\n\n\n\nSelect\n2024-03-18\n2024-03-17\n2024-03-16\n2024-03-15\n2024-03-14\n2024-03-13\n2024-03-12\n2024-03-11\n2024-03-10\n2024-03-09\n2024-03-08\n2024-03-07\n2024-03-06\n2024-03-05\n2024-03-04\n\n\n\n\n\n\n\n\nData through games of Thu, Mar 21\nClick here for the projected results of every conference tournament."
+    "text": "Men’s Basketball Conference Tournament Projections\n\nForecast Date:\n\n\n\n\nSelect\n2024-03-18\n2024-03-17\n2024-03-16\n2024-03-15\n2024-03-14\n2024-03-13\n2024-03-12\n2024-03-11\n2024-03-10\n2024-03-09\n2024-03-08\n2024-03-07\n2024-03-06\n2024-03-05\n2024-03-04\n\n\n\n\n\n\n\n\nData through games of Fri, Mar 22\nClick here for the projected results of every conference tournament."
   },
   {
     "objectID": "mbb.html#mens-basketball-conference-win-totals",
     "href": "mbb.html#mens-basketball-conference-win-totals",
     "title": "NCAA Men’s Basketball",
     "section": "Men’s Basketball Conference Win Totals",
-    "text": "Men’s Basketball Conference Win Totals\n\n\n\n\n\n\n\nData through games of Thu, Mar 21\nClick here for every conference’s projected win totals."
+    "text": "Men’s Basketball Conference Win Totals\n\n\n\n\n\n\n\nData through games of Fri, Mar 22\nClick here for every conference’s projected win totals."
   },
   {
     "objectID": "mbb.html#mens-basketball-posts",
@@ -200,56 +214,56 @@
     "href": "wbb/conf_tourney_proj.html",
     "title": "NCAA WBB Conference Tournament Projections",
     "section": "",
-    "text": "Forecast Date:\n\n\n\n\nSelect\n2024-03-18\n2024-03-17\n2024-03-16\n2024-03-15\n2024-03-14\n2024-03-13\n2024-03-12\n2024-03-11\n2024-03-10\n2024-03-09\n2024-03-08\n2024-03-07\n2024-03-06\n2024-03-05\n\n\n\n\n\n\n\n\nData through games of Thu, Mar 21."
+    "text": "Forecast Date:\n\n\n\n\nSelect\n2024-03-18\n2024-03-17\n2024-03-16\n2024-03-15\n2024-03-14\n2024-03-13\n2024-03-12\n2024-03-11\n2024-03-10\n2024-03-09\n2024-03-08\n2024-03-07\n2024-03-06\n2024-03-05\n\n\n\n\n\n\n\n\nData through games of Fri, Mar 22."
   },
   {
     "objectID": "wbb/conf_win_probs.html",
     "href": "wbb/conf_win_probs.html",
     "title": "NCAA WBB Conference Win Totals",
     "section": "",
-    "text": "Data through games of Thu, Mar 21."
+    "text": "Data through games of Fri, Mar 22."
   },
   {
     "objectID": "wbb/ncaa_tourney_proj.html",
     "href": "wbb/ncaa_tourney_proj.html",
     "title": "Women’s NCAA Tournament Projections",
     "section": "",
-    "text": "Forecast Date:\n\n\n\n\nSelect\n2024-03-22\n2024-03-21\n2024-03-20\n\n\n\n\n\n\n\n\nData through games of Thu, Mar 21."
+    "text": "Forecast Date:\n\n\n\n\nSelect\n2024-03-23\n2024-03-22\n2024-03-21\n2024-03-20\n\n\n\n\n\n\n\n\nData through games of Fri, Mar 22."
   },
   {
     "objectID": "wbb/team_ratings.html",
     "href": "wbb/team_ratings.html",
     "title": "NCAA WBB Team Ratings",
     "section": "",
-    "text": "Data through games of Thu, Mar 21.\nHome court advantage is +/- 1.98, residual SE is 12.12."
+    "text": "Data through games of Fri, Mar 22.\nHome court advantage is +/- 1.97, residual SE is 12.11."
   },
   {
     "objectID": "wbb.html",
     "href": "wbb.html",
     "title": "NCAA Women’s Basketball",
     "section": "",
-    "text": "Data through games of Thu, Mar 21\nClick here for the projected results of every round of the NCAA tournament."
+    "text": "Data through games of Fri, Mar 22\nClick here for the projected results of every round of the NCAA tournament."
   },
   {
     "objectID": "wbb.html#womens-basketball-team-ratings",
     "href": "wbb.html#womens-basketball-team-ratings",
     "title": "NCAA Women’s Basketball",
     "section": "Women’s Basketball Team Ratings",
-    "text": "Women’s Basketball Team Ratings\n\n\n\n\n\n\n\nData through games of Thu, Mar 21\nClick here for full team efficiency and NET ratings."
+    "text": "Women’s Basketball Team Ratings\n\n\n\n\n\n\n\nData through games of Fri, Mar 22\nClick here for full team efficiency and NET ratings."
   },
   {
     "objectID": "wbb.html#womens-basketball-conference-tournament-projections",
     "href": "wbb.html#womens-basketball-conference-tournament-projections",
     "title": "NCAA Women’s Basketball",
     "section": "Women’s Basketball Conference Tournament Projections",
-    "text": "Women’s Basketball Conference Tournament Projections\n\nForecast Date:\n\n\n\n\nSelect\n2024-03-18\n2024-03-17\n2024-03-16\n2024-03-15\n2024-03-14\n2024-03-13\n2024-03-12\n2024-03-11\n2024-03-10\n2024-03-09\n2024-03-08\n2024-03-07\n2024-03-06\n2024-03-05\n\n\n\n\n\n\n\n\nData through games of Thu, Mar 21\nClick here for the projected results of every conference tournament."
+    "text": "Women’s Basketball Conference Tournament Projections\n\nForecast Date:\n\n\n\n\nSelect\n2024-03-18\n2024-03-17\n2024-03-16\n2024-03-15\n2024-03-14\n2024-03-13\n2024-03-12\n2024-03-11\n2024-03-10\n2024-03-09\n2024-03-08\n2024-03-07\n2024-03-06\n2024-03-05\n\n\n\n\n\n\n\n\nData through games of Fri, Mar 22\nClick here for the projected results of every conference tournament."
   },
   {
     "objectID": "wbb.html#womens-basketball-conference-win-totals",
     "href": "wbb.html#womens-basketball-conference-win-totals",
     "title": "NCAA Women’s Basketball",
     "section": "Women’s Basketball Conference Win Totals",
-    "text": "Women’s Basketball Conference Win Totals\n\n\n\n\n\n\n\nData through games of Thu, Mar 21\nClick here for every conference’s projected win totals."
+    "text": "Women’s Basketball Conference Win Totals\n\n\n\n\n\n\n\nData through games of Fri, Mar 22\nClick here for every conference’s projected win totals."
   },
   {
     "objectID": "wbb.html#womens-basketball-posts",
